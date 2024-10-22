@@ -1,0 +1,60 @@
+h1 {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+    font-size: 64px;
+    line-height: 56px;
+    color: black;
+    margin-bottom: 60px;
+}
+
+h1 span{
+    font-weight: bold;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+    color: #020202;
+    text-align: center;
+    background-image: url("imagens/fundo.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#boas-vindas {
+    width: 1426;
+    margin: 0px auto 35px;
+}
+
+#boas-vindas img{
+    margin-bottom: 39;
+}
+
+span, a {
+    color: #9F1D22;
+}
+
+p {
+    font-size: 40px;
+    line-height: 45px;
+}
+
+#footer a + a {
+    margin-left: 28px;
+}
+
+#logo {
+    width: 400px;
+    margin-top: -50px;
+}
+
+#paragrafo {
+    margin: 0px;
+}
